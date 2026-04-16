@@ -4,11 +4,15 @@
 
 ## 🛠 Инструменты, которые я использую
 
-- **SQL** (PostgreSQL, MySQL)
-- **Python** (pandas, numpy, matplotlib, seaborn)
-- **Excel / Google Sheets**
-- **Datalens**
-- **Git** 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Yandex DataLens](https://img.shields.io/badge/Yandex%20DataLens-5282FF?style=for-the-badge&logo=yandex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 📫 Связь со мной
 Telegram: @frolltimeon 
