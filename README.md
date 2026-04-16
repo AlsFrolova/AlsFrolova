@@ -4,11 +4,11 @@
 
 ## 🛠 Инструменты, которые я использую
 
-- **SQL** (PostgreSQL, MySQL);
-- **Python** (pandas, numpy, matplotlib, seaborn);
-- **Excel / Google Sheets**;
-- **Datalens**;
-- **Git** .
+- **SQL** (PostgreSQL, MySQL)
+- **Python** (pandas, numpy, matplotlib, seaborn)
+- **Excel / Google Sheets**
+- **Datalens**
+- **Git** 
 
 📫 Связь со мной
 Telegram: @frolltimeon 
