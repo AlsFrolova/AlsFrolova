@@ -42,7 +42,7 @@
 
 ### 🔗 Ссылка на дашборд
 
-👉 [Открыть дашборд в DataLens](https://datalens.yandex/your-dashboard-link)
+👉 [Открыть дашборд в DataLens](https://datalens.yandex/gp1cloztlx900)
 
 
 📫 Связь со мной
