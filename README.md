@@ -11,6 +11,8 @@
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-2F579A?style=for-the-badge&logoColor=white)
 ![Yandex DataLens](https://img.shields.io/badge/Yandex%20DataLens-5282FF?style=for-the-badge&logo=yandex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -33,10 +35,6 @@
 - [👥 HR-аналитика](./hr_analytics/README.md)
 - [📱 Такси-аналитика](./taxi_analytics/README.md)
 - [🎮 Игровой сервис](./game_service/README.md)
-
-## 🛠️ Основные инструменты
-
-`Python` `pandas` `numpy` `matplotlib` `seaborn` `plotly` `scipy` `DataLens` `Jupyter`
 
 ---
 > Все проекты выполнены в формате Jupyter Notebook, код выложен в соответствующих репозиториях.
