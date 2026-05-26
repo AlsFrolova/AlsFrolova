@@ -37,7 +37,7 @@
 - [📱 Такси-аналитика](https://github.com/AlsFrolova/taxi-rides-analysis//blob/main/README.md)
 - [🎮 Игровой сервис](https://github.com/AlsFrolova/game_dev-analysis//blob/main/README.md)
 - [📊 BI-аналитика продаж Wildberries](https://github.com/AlsFrolova/marketplace-data-analysis//blob/main/README.md)
-- 
+
 > Все проекты выполнены в формате Jupyter Notebook, код выложен в соответствующих репозиториях.
 
 
