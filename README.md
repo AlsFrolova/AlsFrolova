@@ -32,11 +32,11 @@
 
 Каждый проект содержит отдельный `README.md` с полным описанием, этапами анализа, графиками и рекомендациями.
 
-- [🏨 Отмены бронирований отелей](.AlsFrolova/game_dev-analysis/hotel-data-analysis/README.md)
-- [👥 HR-аналитика](.AlsFrolova/game_dev-analysis/hr-data-analysis/README.md)
-- [📱 Такси-аналитика](.AlsFrolova/game_dev-analysis/taxi-rides-analysis/README.md)
-- [🎮 Игровой сервис](.AlsFrolova/game_dev-analysis/game_dev-analysis/README.md)
-- [📊 BI-аналитика продаж Wildberries](.AlsFrolova/game_dev-analysis/marketplace-data-analysis/README.md)
+- [🏨 Отмены бронирований отелей](https://github.com/AlsFrolova/hotel-data-analysis/README.md)
+- [👥 HR-аналитика](https://github.com/AlsFrolova/hr-data-analysis)/README.md)
+- [📱 Такси-аналитика](https://github.com/AlsFrolova/taxi-rides-analysis/README.md)
+- [🎮 Игровой сервис](https://github.com/AlsFrolova/game_dev-analysis/README.md)
+- [📊 BI-аналитика продаж Wildberries](https://github.com/AlsFrolova/marketplace-data-analysis/README.md)
 - 
 > Все проекты выполнены в формате Jupyter Notebook, код выложен в соответствующих репозиториях.
 
