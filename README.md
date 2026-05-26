@@ -32,11 +32,11 @@
 
 Каждый проект содержит отдельный `README.md` с полным описанием, этапами анализа, графиками и рекомендациями.
 
-- [🏨 Отмены бронирований отелей](./hotel_cancellations/README.md)
-- [👥 HR-аналитика](./hr_analytics/README.md)
-- [📱 Такси-аналитика](./taxi_analytics/README.md)
-- [🎮 Игровой сервис](./game_service/README.md)
-- [📊 BI-аналитика продаж Wildberries](./wildberries_bi/README.md)
+- [🏨 Отмены бронирований отелей](./hotel-data-analysis/README.md)
+- [👥 HR-аналитика](./hr-data-analysis/README.md)
+- [📱 Такси-аналитика](./taxi-rides-analysis/README.md)
+- [🎮 Игровой сервис](./game_dev-analysis/README.md)
+- [📊 BI-аналитика продаж Wildberries](./marketplace-data-analysis/README.md)
 - 
 > Все проекты выполнены в формате Jupyter Notebook, код выложен в соответствующих репозиториях.
 
